@@ -1,0 +1,71 @@
+2024-11-22 17:03:38,075 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2024-11-22 17:08:15,208 [Worker-0: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.application:CRUD:0.0.1-SNAPSHOT @ C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudApplicationNimap-master (1).zip_expanded\CrudApplicationNimap-master\CrudAppNimap\pom.xml.
+2024-11-22 17:08:22,012 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-22 17:08:22,081 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-22 17:08:22,093 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudApplicationNimap-master (1).zip_expanded\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-22 17:08:25,189 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-22 17:08:25,196 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-22 17:08:25,204 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudApplicationNimap-master (1).zip_expanded\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-22 17:12:17,126 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-22 17:13:57,153 [Worker-1: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrudAppNimap
+2024-11-22 17:13:59,462 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-22 17:13:59,484 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-22 17:13:59,491 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudApplicationNimap-master (1).zip_expanded\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-22 17:13:59,491 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrudAppNimap
+2024-11-22 17:13:59,492 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrudAppNimap
+2024-11-22 17:15:03,370 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-22 17:15:03,380 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-22 17:15:03,385 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudApplicationNimap-master (1).zip_expanded\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-22 17:15:56,923 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-22 17:15:56,944 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-22 17:15:56,950 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudApplicationNimap-master (1).zip_expanded\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-22 17:16:52,437 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.application:CRUD:0.0.1-SNAPSHOT @ C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\pom.xml.
+2024-11-22 17:16:54,941 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrudAppNimap/src/main/java
+2024-11-22 17:16:54,945 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CrudAppNimap/src/main/resources
+2024-11-22 17:16:54,947 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CrudAppNimap/src/main/resources
+2024-11-22 17:16:54,948 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /CrudAppNimap/src/test/java
+2024-11-22 17:16:54,953 [Worker-3: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /CrudAppNimap/src/test/resources
+2024-11-22 17:16:58,504 [Worker-3: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 9 sec
+2024-11-22 17:17:00,215 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-22 17:17:00,297 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-22 17:17:00,325 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-22 17:17:34,448 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-22 17:17:34,460 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-22 17:17:34,470 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-22 17:17:39,650 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-22 17:17:39,661 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-22 17:17:39,670 [Worker-6: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-24 13:02:01,145 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-24 13:02:04,928 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2024-11-24 13:02:18,925 [Worker-5: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrudAppNimap
+2024-11-24 13:02:22,416 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-24 13:02:22,512 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-24 13:02:22,527 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-24 13:02:22,543 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrudAppNimap
+2024-11-24 13:02:22,543 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrudAppNimap
+2024-11-24 13:02:29,174 [Worker-0: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrudAppNimap
+2024-11-24 13:02:29,631 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-24 13:02:29,634 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-24 13:02:29,639 [Worker-7: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-24 13:02:29,640 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrudAppNimap
+2024-11-24 13:02:29,640 [Worker-7: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrudAppNimap
+2024-11-24 13:06:02,123 [Worker-1: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrudAppNimap
+2024-11-24 13:06:02,855 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-24 13:06:02,858 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-24 13:06:02,863 [Worker-8: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-24 13:06:02,863 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrudAppNimap
+2024-11-24 13:06:02,864 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrudAppNimap
+2024-11-24 15:38:00,697 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2024-11-24 15:45:34,065 [Worker-10: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrudAppNimap
+2024-11-24 15:45:36,077 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-24 15:45:36,098 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-24 15:45:36,106 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-24 15:45:36,107 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrudAppNimap
+2024-11-24 15:45:36,108 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrudAppNimap
+2024-11-24 16:19:28,512 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2024-11-24 16:21:15,898 [Worker-3: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for CrudAppNimap
+2024-11-24 16:21:17,593 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-11-24 16:21:17,624 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-11-24 16:21:17,630 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Shree\Downloads\CrudApplicationNimap-master (1)\CrudApplicationNimap-master\CrudAppNimap\src\test\resources
+2024-11-24 16:21:17,635 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of CrudAppNimap
+2024-11-24 16:21:17,636 [Worker-3: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for CrudAppNimap
